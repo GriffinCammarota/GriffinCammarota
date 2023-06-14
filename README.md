@@ -13,7 +13,7 @@
 <h2>Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw02x1WA9H4KqFMEhJrNRPCG&ust=1686792204906000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC84OPMwf8CFQAAAAAdAAAAABAE)" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/griffincammarota
